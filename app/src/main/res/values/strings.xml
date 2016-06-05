@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meteor</string>
+    <string name="widget_name">Meteor</string>
+    <string name="normal">Meteor</string>
+    <string name="hard">Meteor</string>
+    <string name="title_activity_city_list">Список городов</string>
+</resources>
